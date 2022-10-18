@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1044504479464",
+    "project_id": "cfisher19-cmsc4303-lesson4",
+    "storage_bucket": "cfisher19-cmsc4303-lesson4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044504479464:android:c8189b9c3ee350419deb5d",
+        "android_client_info": {
+          "package_name": "edu.uco.cfisher19.cmsc4303.lesson4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044504479464-0v8hlfnre9ksq3ktfmnt3eij3lhuvklr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQmxG6zJgpXXZERThelv3WE8-6BXniG1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044504479464-0v8hlfnre9ksq3ktfmnt3eij3lhuvklr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1044504479464-7vsdbitd1nchpkudjsimslfpalthpbm9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "edu.uco.cfisher19.cmsc4303.lesson4"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044504479464:android:0a34ce4300a6a6f89deb5d",
+        "android_client_info": {
+          "package_name": "edu.uco.cfisher19.project3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044504479464-0v8hlfnre9ksq3ktfmnt3eij3lhuvklr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQmxG6zJgpXXZERThelv3WE8-6BXniG1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044504479464-0v8hlfnre9ksq3ktfmnt3eij3lhuvklr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1044504479464-7vsdbitd1nchpkudjsimslfpalthpbm9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "edu.uco.cfisher19.cmsc4303.lesson4"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
